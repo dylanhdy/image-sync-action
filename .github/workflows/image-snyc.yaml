@@ -2,8 +2,6 @@ name: Sync images to aliyun
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 2 * * *"
 
 jobs:
   sync-images:
