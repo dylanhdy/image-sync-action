@@ -1,5 +1,8 @@
 python:3.11-slim: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/python:3.11-slim
-lanqian528/chat2api: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/chat2api
-nginx:stable: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/nginx
-nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.1.3-ubuntu22.04: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/dcgm-exporter
-quay.io/prometheus/node-exporter:v1.8.2: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/node-exporter
+python:3.6-alpine: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/python:3.6-alpine
+lanqian528/chat2api:latest: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/chat2api:latest
+nginx:stable: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/nginx:stable
+nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.1.3-ubuntu22.04: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/dcgm-exporter:4.2.3-4.1.3-ubuntu22.04
+quay.io/prometheus/node-exporter:v1.8.2: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/node-exporter:v1.8.2
+zhayujie/chatgpt-on-wechat:1.6.9: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/chatgpt-on-wechat:1.6.9
+redis:7: crpi-tyce9o8tisqe9vrd.cn-shanghai.personal.cr.aliyuncs.com/crazy_david/redis:7
